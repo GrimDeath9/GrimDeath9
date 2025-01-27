@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Hoang</h1>
-- 🔭 I’m currently working on **YouTube Link Previewer**
+- 🔭 I’m currently working on [YouTube Link Previewer](https://github.com/GrimDeath9/youtube-previewer)
 
 - 🌱 I’m currently learning **Software Engineering, Operating Systems**
 
